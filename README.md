@@ -1,5 +1,6 @@
-# Dump MySQL Final Project PBD
-## Kelompok
+# MySQL Dump SIDIA 
+## Final Project PBD
+### Kelompok
 - Dimas Ariyanto (21.11.4408)
 - Petronia Wilhelmina Suna (21.11.4412)
 - Divka Shafira Purwono (21.11.4422)
